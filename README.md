@@ -1,1 +1,3 @@
-# sensors
+# Sensors
+
+![Screenshot](assets/screenshot.png)
